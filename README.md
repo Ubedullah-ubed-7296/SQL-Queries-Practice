@@ -1,1 +1,1 @@
-# SQL-queries-Practice
+# SQL-Queries-Practice
